@@ -1,5 +1,5 @@
 [
 {
-"first name": "Hello", "last name": "World", "age": 25, "marks":[{ "english":55 }, { "math":57 }], "address": "Delhi"
+"first_name": "Hello", "last_name": "World", "age": 25, "marks":[{ "english":55 }, { "math":57 }], "address": "Delhi"
 }
 ]
